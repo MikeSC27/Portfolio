@@ -9,37 +9,49 @@ const Footer = () => {
         <div className="footer-container">
             <div className="left"></div>
                 <div className="location">
-                <div className="linkedin">
+                {/* <div className="linkedin">
                         <h4>
                         <FaLinkedin size={30} style={{color: "#fff", marginRight: "1rem"}}/>
                         </h4>
-                    </div>
-                    <FaHome size={20} style={{color: "#fff", marginRight: "2rem"}}/>
+                    </div> */}
+                    {/* <FaHome size={20} style={{color: "#fff", marginRight: "2rem"}}/>
                     <div>
-                        <p>Arizona</p>
-                    </div>
-                    <div className="phone">
+                        <p>Prescott, Arizona</p>
+                    </div> */}
+                    {/* <div className="phone">
                         <h4>
                         <FaPhone size={20} style={{color: "#fff", marginRight: "2rem"}}/>
                         </h4>
-                    </div>
-                    <div className="email">
+                    </div> */}
+                    {/* <div className="email">
+                        <h4>
+                        <FaMailBulk size={20} style={{color: "#fff", marginRight: "2rem"}}/>
+                        mcruzen89@gmail.com
+                        </h4>
+                    </div> */}
+                </div>
+            <div className="right">
+                <div className="social">
+                         {/* <div>
+                <FaHome size={20} style={{color: "#fff", marginLeft: "3rem"}}/>
+                        <p>Prescott, Arizona</p>
+                    </div> */}
+                <div className="email">
                         <h4>
                         <FaMailBulk size={20} style={{color: "#fff", marginRight: "2rem"}}/>
                         mcruzen89@gmail.com
                         </h4>
                     </div>
-                </div>
-            <div className="right">
-                <div className="social">
                 <div className="linkedin">
                         <h4>
                         <FaLinkedin size={30} style={{color: "#fff", marginRight: "1rem"}}/>
+                        www.linkedin.com/in/michael-santacruz-7aaaab258
                         </h4>
                     </div>
-                <div className="linkedin">
+                <div className="github">
                         <h4>
                         <FaGithub size={30} style={{color: "#fff", marginRight: "1rem"}}/>
+                        MikeSC27
                         </h4>
                     </div>
                 </div>

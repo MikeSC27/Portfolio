@@ -13,7 +13,7 @@
 }
 
 .project-card{
-    background: white;
+    background: black;
     padding: 1.2rem 1rem;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .project-title{
-    color: navy;
+    color: rgb(2, 2, 248);
     padding: 1rem 0;
     text-align: center;
 }
