@@ -11,21 +11,21 @@ const Footer = () => {
                 <div className="location">
                 {/* <div className="linkedin">
                         <h4>
-                        <FaLinkedin size={30} style={{color: "#fff", marginRight: "1rem"}}/>
+                        <FaLinkedin size={30} style={{color: "white", marginRight: "1rem"}}/>
                         </h4>
                     </div> */}
-                    {/* <FaHome size={20} style={{color: "#fff", marginRight: "2rem"}}/>
+                    {/* <FaHome size={20} style={{color: "white", marginRight: "2rem"}}/>
                     <div>
                         <p>Prescott, Arizona</p>
                     </div> */}
                     {/* <div className="phone">
                         <h4>
-                        <FaPhone size={20} style={{color: "#fff", marginRight: "2rem"}}/>
+                        <FaPhone size={20} style={{color: "white", marginRight: "2rem"}}/>
                         </h4>
                     </div> */}
                     {/* <div className="email">
                         <h4>
-                        <FaMailBulk size={20} style={{color: "#fff", marginRight: "2rem"}}/>
+                        <FaMailBulk size={20} style={{color: "white", marginRight: "2rem"}}/>
                         mcruzen89@gmail.com
                         </h4>
                     </div> */}
@@ -38,19 +38,19 @@ const Footer = () => {
                     </div> */}
                 <div className="email">
                         <h4>
-                        <FaMailBulk size={20} style={{color: "#fff", marginRight: "2rem"}}/>
+                        <FaMailBulk size={30} style={{color: "white", marginRight: "1rem"}}/>
                         mcruzen89@gmail.com
                         </h4>
                     </div>
                 <div className="linkedin">
                         <h4>
-                        <FaLinkedin size={30} style={{color: "#fff", marginRight: "1rem"}}/>
-                        www.linkedin.com/in/michael-santacruz-7aaaab258
+                        <FaLinkedin size={30} style={{color: "white", marginRight: "1rem"}}/>
+                        www.linkedin.com/in/mike-santacruz
                         </h4>
                     </div>
                 <div className="github">
                         <h4>
-                        <FaGithub size={30} style={{color: "#fff", marginRight: "1rem"}}/>
+                        <FaGithub size={30} style={{color: "white", marginRight: "1rem"}}/>
                         MikeSC27
                         </h4>
                     </div>

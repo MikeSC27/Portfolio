@@ -1,13 +1,13 @@
 import "./HeroImgStyles.css";
 import React from 'react'
-import IntroImg from "../assets/pfbkgrndimg.jpeg"
+import FullImg from "../assets/full.jpg"
 import { Link } from "react-router-dom";
 
 const HeroImg = () => {
   return (
     <div className="hero">
         <div className="mask">
-            <img className="intro-img" src={IntroImg} alt="IntroImg" />
+            <img className="full-img" src={FullImg} alt="FullImg" />
         </div>
         <div className="content">
             <p>Mike Santacruz</p>
