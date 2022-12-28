@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@hookform/resolvers": "^2.9.10",
+    "emailjs": "^4.0.1",
+    "emailjs-com": "^3.2.0",
+    "react-hook-form": "^7.41.1",
+    "yup": "^0.32.11"
+  }
+}

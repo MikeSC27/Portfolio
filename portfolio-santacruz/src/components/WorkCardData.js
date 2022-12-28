@@ -1,13 +1,17 @@
 import project1 from "../assets/tic-tac-toe.png"
 import project2 from "../assets/kingtutstomb.png"
 import project3 from "../assets/rubyverse.png"
+import vid1 from "../assets/tic-tac-toe.mp4"
+// import project2 from "../assets/kingtutstomb.png"
+import vid3 from "../assets/RubyVerse.mp4"
 // import WorkCard from "./WorkCard";
 
 const projectCardData = [
     {
         imgsrc: project1,
+        vidsrc: vid1,
         title: "Tic Tac Toe",
-        text: "This Game was created as part of a pair programming team.  It will be linked upon completion. Right now the Draw Outcome logic is not working. The winner is announced correctly for either player. Also the squares nicely flash when they are pushed.",
+        text: "This Game was created as part of a pair programming team. The winner is announced correctly for either player. Also the squares nicely flash when they are pushed.",
         link: "puturlhere.com"
     },
     {
@@ -18,8 +22,9 @@ const projectCardData = [
     },
     {
         imgsrc: project3,
+        vidsrc: vid3,
         title: "Rubyverse",
-        text: "This cool text based game was also built as a mob team.  Here you answer Ruby language based questions as you move through the Ruby Mansion.  Picture needs to be updated with run through of the game.",
+        text: "This cool text based Ruby language trivia game was built as a mob team.  Here you answer Ruby language based questions as you move through the Labyrinth of Last Breath.",
         link: "puturlhere.com"
     },
 ];
