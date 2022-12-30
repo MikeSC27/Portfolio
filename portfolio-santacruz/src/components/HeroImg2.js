@@ -3,7 +3,6 @@ import IntroImg from "../assets/pfbkgrndimg.jpeg"
 import React, { Component } from 'react'
 
 
-
 class HeroImg2 extends Component {
     render(){
   return (

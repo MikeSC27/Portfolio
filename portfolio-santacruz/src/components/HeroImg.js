@@ -3,6 +3,7 @@ import React from 'react'
 import FullImg from "../assets/full.jpg"
 import { Link } from "react-router-dom";
 
+
 const HeroImg = () => {
   return (
     <div className="hero">
