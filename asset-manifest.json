@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio-mike/static/css/main.ae59653f.css",
-    "main.js": "/portfolio-mike/static/js/main.1990fb50.js",
-    "static/media/RubyVerse.mp4": "/portfolio-mike/static/media/RubyVerse.c4529475c6098d09e366.mp4",
-    "static/media/tic-tac-toe.mp4": "/portfolio-mike/static/media/tic-tac-toe.0f042d205b9277f65852.mp4",
-    "static/media/kingtutstomb.png": "/portfolio-mike/static/media/kingtutstomb.91669ec960369c658366.png",
-    "static/media/full.jpg": "/portfolio-mike/static/media/full.676ac1762ea63fe04525.jpg",
-    "static/media/rubyverse.png": "/portfolio-mike/static/media/rubyverse.b7f09182e3cf5686dbeb.png",
-    "static/media/tic-tac-toe.png": "/portfolio-mike/static/media/tic-tac-toe.6047569599f3c2d800b4.png",
-    "static/media/pfbkgrndimg.jpeg": "/portfolio-mike/static/media/pfbkgrndimg.a8600aa94faf061f2c69.jpeg",
-    "index.html": "/portfolio-mike/index.html",
-    "main.ae59653f.css.map": "/portfolio-mike/static/css/main.ae59653f.css.map",
-    "main.1990fb50.js.map": "/portfolio-mike/static/js/main.1990fb50.js.map"
+    "main.css": "/MikeSC27.github.io/static/css/main.ae59653f.css",
+    "main.js": "/MikeSC27.github.io/static/js/main.1588522d.js",
+    "static/media/RubyVerse.mp4": "/MikeSC27.github.io/static/media/RubyVerse.c4529475c6098d09e366.mp4",
+    "static/media/tic-tac-toe.mp4": "/MikeSC27.github.io/static/media/tic-tac-toe.0f042d205b9277f65852.mp4",
+    "static/media/kingtutstomb.png": "/MikeSC27.github.io/static/media/kingtutstomb.91669ec960369c658366.png",
+    "static/media/full.jpg": "/MikeSC27.github.io/static/media/full.676ac1762ea63fe04525.jpg",
+    "static/media/rubyverse.png": "/MikeSC27.github.io/static/media/rubyverse.b7f09182e3cf5686dbeb.png",
+    "static/media/tic-tac-toe.png": "/MikeSC27.github.io/static/media/tic-tac-toe.6047569599f3c2d800b4.png",
+    "static/media/pfbkgrndimg.jpeg": "/MikeSC27.github.io/static/media/pfbkgrndimg.a8600aa94faf061f2c69.jpeg",
+    "index.html": "/MikeSC27.github.io/index.html",
+    "main.ae59653f.css.map": "/MikeSC27.github.io/static/css/main.ae59653f.css.map",
+    "main.1588522d.js.map": "/MikeSC27.github.io/static/js/main.1588522d.js.map"
   },
   "entrypoints": [
     "static/css/main.ae59653f.css",
-    "static/js/main.1990fb50.js"
+    "static/js/main.1588522d.js"
   ]
 }
